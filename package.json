@@ -48,7 +48,7 @@
           "config": {
             "repository": {
               "owner": "armelgeek",
-              "name": "electron-publish-example",
+              "name": "electron-app",
               "draft": true
             }
           }
